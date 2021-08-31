@@ -1,4 +1,4 @@
-# 💻🄽🄸🄲🄷🄾🄹🄴'🅂 🄾🅂212 🄿🄰🄶🄴💻
+# 💻𝐧𝐢𝐜𝐡𝐨𝐣𝐞'𝐬 𝐎𝐒𝟐𝟏𝟐 𝐏𝐚𝐠𝐞💻
 Hello! I'm Nicholas Jonathan Kinandana from CSUI International Class. Welcome to my OS odd 2021-2 page.✌️
 
 ## 🔗Links (Go Visit Those!)🔗
