@@ -9,12 +9,12 @@ ZCZC W00 80 L99 Exercise
 ZCZC W00 60 L87 Sunday Church
 ZCZC W00 60 L83 Pet Feeding (dog) and aquarium cleaning
 ZCZC W00 05 L01 SCELE regular check
-ZCZC W00 10 L03 edit my GitHub profile
+ZCZC W00 20 L03 edit my GitHub profile
 ZCZC W00 10 L04 make GitHub page
-ZCZC W00 05 L11 do Assignment #01 (create a repository)
-ZCZC W00 10 L12 do Assignment #02 (make this day's log)
-ZCZC W00 15 L13 do Assignment #03 (create github page)
-ZCZC W00 15 L14 do Assignment #04 Course Registration on SCELE
+ZCZC W00 15 L11 do Assignment #01 (create a repository)
+ZCZC W00 15 L12 do Assignment #02 (make this day's log)
+ZCZC W00 20 L13 do Assignment #03 (create github page)
+ZCZC W00 20 L14 do Assignment #04 Course Registration on SCELE
 ZCZC W00 60 L80 watching Youtube 
 ZCZC W00 30 L99 check my Tokocrypto 
 ZCZC W00 120 L84 sleep
@@ -25,3 +25,4 @@ ZCZC W00 30 L15 Assignment #05 (read a little bit of the material)
 ZCZC W00 100 L02 ZOOM meetings related (OS Class)
 ZCZC W00 100 L70 Studying for other courses (MD2)
 ZCZC W00 20 L32 YouTube: Linux basics
+ZCZC W00 60 L15 Assignment #05 (watch the video on Week 00 Slide)
