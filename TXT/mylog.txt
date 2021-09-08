@@ -26,3 +26,4 @@ ZCZC W00 100 L02 ZOOM meetings related (OS Class)
 ZCZC W00 100 L70 Studying for other courses (MD2)
 ZCZC W00 20 L32 YouTube: Linux basics
 ZCZC W00 60 L15 Assignment #05 (watch the video on Week 00 Slide)
+ZCZC W01 10 L08 Asking TA about Github page
