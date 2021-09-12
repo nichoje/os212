@@ -16,6 +16,7 @@ They said when you explore, you will know more!
 
 | [HOME]({{ site.baseurl }}/) | [LINKS]({{ site.baseurl }}/LINKS/) | [GitHub]({{ site.urlgithub }}) |
 | [TIPS]({{ site.baseurl }}/TIPS/) | [ABOUT]({{ site.baseurl }}/ABOUT/) | [WEB]({{ site.urlweb }}) |
+| | [MY LOG](https://nichoje.github.io/os212/TXT/mylog.txt) | |
 
 
 
