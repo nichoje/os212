@@ -1,8 +1,7 @@
 
-<br>
-⌨️Hi! my name is Nicholas Jonathan Kinandana, but you can call me Nicho or Nicholas. I'm a CS Sophomore at UI.🖥
+# nichoje's OS212 Github Page
+⌨️Hi! my name is Nicholas Jonathan Kinandana, but you can call me Nicho or Nicholas. I'm a CS Sophomore at UI. Welcome to my Page!🖥
 
-<br>
 ## Explore More!
 They said when you explore, you will know more! Go check them out!⌨️ 🖥
 
