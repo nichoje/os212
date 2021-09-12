@@ -1,4 +1,4 @@
-# LINKS
+# LINKS⛓
 
 1. [OS Main Page](https://os.vlsm.org/)
 If you want to see the materials, log codes, etc., go check 'em out!
