@@ -24,18 +24,5 @@ I am {{ site.author }}, {{ site.address }}
 * [Installing Jekyll on a VirtualBox](https://doit.vlsm.org/005.md)
 * [This is how me do it records](https://doit.vlsm.org/)
 
-<br>
-## Source Code
 
-```
-#include <stdio.h>
-
-int main(void) {
-    prinf("As.w.w.\n");
-}
-
-```
-
-<br>
-Qapla!
 
