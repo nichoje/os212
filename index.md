@@ -2,7 +2,7 @@
 ---
 
 <br>
-Hi! my name is {{ site.author }}, and I'm from{{ site.address }}. Welcome to my OS212 page!
+Hi! my name is {{ site.author }}, and I'm from {{ site.address }}. Welcome to my OS212 page!
 
 This [GitHub Page](https://nichoje.github.io/os212/) is hosted by [GitHub.com]({{ site.urlgithub }}).
 You can download the source either as a
