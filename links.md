@@ -11,4 +11,7 @@ Most people associate Linux with a sophisticated operating system that is
 exclusively used by programmers. But it's not as frightening as it appears.
 Here are some basics Linux commands for u guys!
 
+4. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+This link is so useful for editing your page using markdowns. Check it out!
+
 
