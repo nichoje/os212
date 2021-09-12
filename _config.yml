@@ -1,10 +1,9 @@
-version:     "0018b--03-Aug-2021"
-copyright:   "2021-2021"
+version:     "1--12 September 2021"
+copyright:   "2021"
 description:
-  This is a
-  GitHub Page Template
+  Hi! Welcome to Nicholas "nichoje" Jonathan Kinandana's OS 212 Github Page
 disclaimer:
-  I have spoken.
+  This page is based on GSGS so...
 keywords:    "jekyll, testing"
 navbarlinks:
 - navbar:    "Home"
@@ -25,10 +24,10 @@ navbarlinks:
   link:      "/ABOUT/"
 - navbar:    "GitHub Page"
   link:      "https://template.vlsm.org/"
-title:       "GitHub Page Template"
+title:       "nichoje's Github Page"
 lang:        "en-US"
-author:      "J. Walker"
-address:     "Box 7, Mawitaan, Bangalla."
+author:      "Nicholas Jonathan Kinandana"
+address:     "South Jakarta"
 sitemap:     "true"
 markdown:    "kramdown"
 defaults:
