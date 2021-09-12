@@ -40,3 +40,4 @@ ZCZC W01 10 L64 Helping OS related problem to a friend
 ZCZC W01 25 L18 Assignment #8
 ZCZC W01 30 L19 Assignment #9
 ZCZC W01 5 L01 SCELE Check
+ZCZC W01 60 L87 Sunday Church
