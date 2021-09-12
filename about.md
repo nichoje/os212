@@ -4,8 +4,8 @@ permalink: /ABOUT/
 
 # About
 
-This is a GitHub Page template on GitHub.
-Fill free to clone/fork/hijack/whatever it!
+Hi! my name is Nicholas Jonathan Kinandana. You can call me Nicholas or Okin it's ok. I'm from South Jakarta. 
+I'm a CS sophomore at Universitas Indonesia. Feel free to explore my page! Cheers🥂
 
 <br>
 # More Information
