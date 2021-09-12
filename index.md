@@ -1,21 +1,12 @@
----
----
 
 <br>
-Hi! my name is {{ site.author }}, and I'm from {{ site.address }}. Welcome to my OS212 page!
-
-This [GitHub Page](https://nichoje.github.io/os212/) is hosted by [GitHub.com]({{ site.urlgithub }}).
-You can download the source either as a
-[ZIP]({{ site.baseurl }}/template.zip) file or a
-[TARBALL]({{ site.baseurl }}/template.tar.bz2) file.
-File [LISTINGS]({{ site.baseurl }}/000.html) are also available. Go check them out!⌨️ 🖥
+⌨️Hi! my name is Nicholas Jonathan Kinandana, but you can call me Nicho or Nicholas. I'm a CS Sophomore at UI. Welcome to my OS212 page!⌨️
 
 <br>
 ## Explore More!
-They said when you explore, you will know more!
+They said when you explore, you will know more! Go check them out!⌨️ 🖥
 
-| [HOME]({{ site.baseurl }}/) | [LINKS]({{ site.baseurl }}/LINKS/) | [GitHub]({{ site.urlgithub }}) |
-| [TIPS]({{ site.baseurl }}/TIPS/) | [ABOUT]({{ site.baseurl }}/ABOUT/) | [WEB]({{ site.urlweb }}) |
+| [HOME](https://nichoje.github.io/os212/) | [LINKS](links.md) | [My Github Repo](https://github.com/nichoje/os212) |
 | | [MY LOG](https://nichoje.github.io/os212/TXT/mylog.txt) | |
 
 
