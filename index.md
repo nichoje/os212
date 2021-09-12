@@ -1,10 +1,41 @@
-# 💻𝐧𝐢𝐜𝐡𝐨𝐣𝐞'𝐬 𝐎𝐒𝟐𝟏𝟐 𝐏𝐚𝐠𝐞💻
-Hello! I'm Nicholas Jonathan Kinandana from CSUI International Class. Welcome to my OS odd 2021-2 page.✌️
+---
+---
 
-## 🔗Links (Go Visit Those!)🔗
-[Main OS Page](https://os.vlsm.org/) | [My Page](https://nichoje.github.io/os212/) | [My Repo](https://github.com/nichoje/os212/) | [My Log](https://nichoje.github.io/os212/TXT/mylog.txt)
+<br>
+This [GitHub Page](https://pages.github.com/) is hosted at [GitHub.com]({{ site.urlgithub }}).
+You can download the source either as a
+[ZIP]({{ site.baseurl }}/template.zip) file or a
+[TARBALL]({{ site.baseurl }}/template.tar.bz2) file.
+File [LISTINGS]({{ site.baseurl }}/000.html) are also available.
 
-#### 🔗Linux Related
-If you want to learn about Linux basics, join the course in this [link!](https://www.edx.org/school/linuxfoundationx?g_acctid=724-505-4034&g_campaign=free_gs-nonbrand-row-partner-linux&g_campaignid=14307914082&g_adgroupid=126415503296&g_adid=539621763539&g_keyword=linux%20online%20courses%20free&g_keywordid=kwd-341782668201&g_network=g&utm_source=adwords&utm_campaign=14307914082&utm_medium=126415503296&utm_term=linux%20online%20courses%20free&hsa_acc=7245054034&hsa_cam=14307914082&hsa_grp=126415503296&hsa_ad=539621763539&hsa_src=g&hsa_tgt=kwd-341782668201&hsa_kw=linux%20online%20courses%20free&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwm9yJBhDTARIsABKIcGYLLWcDVtcJ0P9s-ztnCERvtya4yxZwFH0Q4MFEbp2B8KpUDlqmpTMaAqnKEALw_wcB)
+I am {{ site.author }}, {{ site.address }}
 
-###### ©2021 Nicholas Jonathan Kinandana (Revision : 2 - 8/9/2021) 
+<br>
+## Table Example
+
+| [HOME]({{ site.baseurl }}/) | [LISTINGS]({{ site.baseurl }}/000.html) | [LINKS]({{ site.baseurl }}/LINKS/) |
+| [TIPS]({{ site.baseurl }}/TIPS/) | [TARBALL]({{ site.baseurl }}/template.tar.bz2) | [ZIP File]({{ site.baseurl }}/template.zip) |
+| [GitHub]({{ site.urlgithub }}) | [ABOUT]({{ site.baseurl }}/ABOUT/) | [WEB]({{ site.urlweb }}) |
+
+<br>
+## More Links
+
+* [GitHub Page with no Jekyll Theme](https://doit.vlsm.org/001.md)
+* [Installing Jekyll on a VirtualBox](https://doit.vlsm.org/005.md)
+* [This is how me do it records](https://doit.vlsm.org/)
+
+<br>
+## Source Code
+
+```
+#include <stdio.h>
+
+int main(void) {
+    prinf("As.w.w.\n");
+}
+
+```
+
+<br>
+Qapla!
+
