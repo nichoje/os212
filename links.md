@@ -1,3 +1,8 @@
+---
+layout: "layout"
+permalink: /LINKS/
+---
+
 # LINKS⛓
 
 [↩️Home](https://nichoje.github.io/os212/)
