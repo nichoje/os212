@@ -11,11 +11,11 @@ You can download the source either as a
 File [LISTINGS]({{ site.baseurl }}/000.html) are also available. Go check them out!⌨️ 🖥
 
 <br>
-## Table Example
+## Explore More!
+They said when you explore, you will know more!
 
-| [HOME]({{ site.baseurl }}/) | [LINKS]({{ site.baseurl }}/LINKS/) |
-| [TIPS]({{ site.baseurl }}/TIPS/) | [ABOUT]({{ site.baseurl }}/ABOUT/) |
-| [GitHub]({{ site.urlgithub }}) | [WEB]({{ site.urlweb }}) |
+| [HOME]({{ site.baseurl }}/) | [LINKS]({{ site.baseurl }}/LINKS/) | [GitHub]({{ site.urlgithub }}) |
+| [TIPS]({{ site.baseurl }}/TIPS/) | [ABOUT]({{ site.baseurl }}/ABOUT/) | [WEB]({{ site.urlweb }}) |
 
 
 
