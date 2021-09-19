@@ -41,3 +41,4 @@ ZCZC W01 25 L18 Assignment #8
 ZCZC W01 30 L19 Assignment #9
 ZCZC W01 5 L01 SCELE Check
 ZCZC W01 60 L87 Sunday Church
+ZCZC W02 10 L11 Assignment #1
