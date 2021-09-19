@@ -42,3 +42,22 @@ ZCZC W01 30 L19 Assignment #9
 ZCZC W01 5 L01 SCELE Check
 ZCZC W01 60 L87 Sunday Church
 ZCZC W02 10 L11 Assignment #1
+ZCZC W02 60 L11 Assignment #1 (read again)
+ZCZC W02 30 L12 Assignment #2
+ZCZC W02 128 L13 Assignment #3 (first part)
+ZCZC W02 146 L13 Assignment #3 (second part)
+ZCZC W02 15 L14 Assignment #4
+ZCZC W02 15 L15 Assignment #5
+ZCZC W02 15 L16 Assignment #6
+ZCZC W02 15 L17 Assignment #7
+ZCZC W02 10 L18 Assignment #8
+ZCZC W02 30 L19 Assignment #9
+ZCZC W02 30 L20 Assignment #10
+ZCZC W02 15 L09 Assignment #11
+ZCZC W02 15 L09 Assignment #12
+ZCZC W02 20 L09 Assignment #13
+ZCZC W02 90 L02 OS Class ZOOM
+ZCZC W02 10 L03 GitHub related
+ZCZC W02 5 L08 Asking TAs
+ZCZC W02 60 L87 Sunday Church
+ZCZC W02 20 L70 Studying Calculus 2 for Quiz
