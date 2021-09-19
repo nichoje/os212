@@ -62,3 +62,7 @@ ZCZC W02 5 L08 Asking TAs
 ZCZC W02 60 L87 Sunday Church
 ZCZC W02 20 L70 Studying Calculus 2 for Quiz
 ZCZC W02 10 L01 SCELE regular check
+ZCZC W02 30 L11 Assignment #1 (read again)
+ZCZC W02 90 L83 Feeding my dogs
+ZCZC W02 10 L64 Helping my friend W02 assignment
+
