@@ -26,16 +26,16 @@ This video explains in general about OS. Curious?
 6. [AWKs](https://www.gnu.org/software/gawk/manual/gawk.html)<br>
 All about AWKs. Want to know about it? Check 'em out!
 
-7. [C Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet)
+7. [C Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet)<br>
 This is all about C language. The basics are on this link!
 
-8. [Bash Cheatsheet](https://devhints.io/bash)
+8. [Bash Cheatsheet](https://devhints.io/bash)<br>
 This links contains bash cheatsheet. Bash is useful since we use VirtualBox. Check it out!
 
-9. [Regex Cheatsheet](https://www.rexegg.com/regex-quickstart.html)
+9. [Regex Cheatsheet](https://www.rexegg.com/regex-quickstart.html)<br>
 Wanna know about Regex? Check this link out for some regex cheatsheet!
 
-10. [C Programming Exercises](https://www.w3resource.com/c-programming-exercises/)
+10. [C Programming Exercises](https://www.w3resource.com/c-programming-exercises/)<br>
 Feel the challenge by doing the exercises in this link! Hope it'll be useful.
 
 
