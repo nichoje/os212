@@ -61,3 +61,4 @@ ZCZC W02 10 L03 GitHub related
 ZCZC W02 5 L08 Asking TAs
 ZCZC W02 60 L87 Sunday Church
 ZCZC W02 20 L70 Studying Calculus 2 for Quiz
+ZCZC W02 10 L01 SCELE regular check
