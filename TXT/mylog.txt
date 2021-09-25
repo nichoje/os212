@@ -65,4 +65,11 @@ ZCZC W02 10 L01 SCELE regular check
 ZCZC W02 30 L11 Assignment #1 (read again)
 ZCZC W02 90 L83 Feeding my dogs
 ZCZC W02 10 L64 Helping my friend W02 assignment
-
+ZCZC W03 90 L02 ZOOM OS Class
+ZCZC W03 90 L11 Assignment #1
+ZCZC W03 40 L12 Assignment #2
+ZCZC W03 90 L13 Assignment #3
+ZCZC W03 10 L08 Asking Asdos
+ZCZC W03 90 L70 Do Statprob Assignment
+ZCZC W03 10 L03 Github Related
+ZCZC W03 20 L01 SCELE related
