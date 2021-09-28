@@ -81,3 +81,7 @@ ZCZC W03 10 L18 Assignment#8
 ZCZC W03 5 L19 Assignment #9
 ZCZC W03 5 L08 Asking Asdos
 ZCZC W03 10 L64 Helping my friend W03 assignment
+ZCZC W04 80 L11 Assignment #1
+ZCZC W04 30 L12 Assignment #2
+ZCZC W04 60 L13 Assignment #3
+
