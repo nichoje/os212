@@ -38,10 +38,10 @@ Wanna know about Regex? Check this link out for some regex cheatsheet!
 10. [C Programming Exercises](https://www.w3resource.com/c-programming-exercises/)<br>
 Feel the challenge by doing the exercises in this link! Hope it'll be useful.
 
-11. [Memory Management](https://www.guru99.com/os-memory-management.html)<br>
+11. [Memory Management #1](https://www.guru99.com/os-memory-management.html)<br>
 Here are some memory management knowledge. It contains contiguous, swapping, etc.
 
-12. [Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
+12. [Memory Management #2](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
 I read this also. Make sure u do so!
 
 
