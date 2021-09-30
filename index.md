@@ -8,7 +8,7 @@ They said when you explore, you will know more! Go check them out!⌨️
 [Home🏡](https://nichoje.github.io/os212/) | [OS Related Links⛓](https://nichoje.github.io/os212/LINKS/) | [My Github Repo🗃](https://github.com/nichoje/os212) | [My Log📝](https://nichoje.github.io/os212/TXT/mylog.txt)
 
 
-##### ©️2021 - Nicholas Jonathan Kinandana (Rev : 28 September 2021)
+##### ©️2021 - Nicholas Jonathan Kinandana (Rev : 30 September 2021)
 
 
 
