@@ -1,4 +1,3 @@
-
 #!/bin/bash
 # Copyright (C) 2020-2021 Cicak Bin Kadal
 

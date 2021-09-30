@@ -87,3 +87,11 @@ ZCZC W04 60 L13 Assignment #3
 ZCZC W04 10 L14 Assignment #4
 ZCZC W04 40 L15 Assignment #5
 ZCZC W04 30 L16 Assignment #6
+ZCZC W04 30 L17 Assignment #7
+ZCZC W04 15 L18 Assignment #8
+ZCZC W04 15 L19 Assignment #9
+ZCZC W04 90 L02 ZOOM sync class OS
+ZCZC W04 20 L04 Github Page related
+ZCZC W04 20 L22 Quiz
+ZCZC W04 5 L28 SSH for gform
+ZCZC W04 60 L83 Pet grooming
