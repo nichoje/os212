@@ -44,4 +44,7 @@ Here are some memory management knowledge. It contains contiguous, swapping, etc
 12. [Memory Management #2](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
 I read this also. Make sure u do so!
 
+13. [Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
+This link contains all about virtual memory. Go click on it!
+
 
