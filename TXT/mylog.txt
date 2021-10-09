@@ -95,3 +95,21 @@ ZCZC W04 20 L04 Github Page related
 ZCZC W04 20 L22 Quiz
 ZCZC W04 5 L28 SSH for gform
 ZCZC W04 60 L83 Pet grooming
+ZCZC W05 90 L11 Assignment #1
+ZCZC W05 50 L12 Assignment #2
+ZCZC W05 60 L13 Assignment #3
+ZCZC W05 60 L14 Assignment #4
+ZCZC W05 30 L15 Assignment #5
+ZCZC W05 20 L16 Assignment #6
+ZCZC W05 30 L17 Assignment #7
+ZCZC W05 20 L18 Assignment #8
+ZCZC W05 100 L02 OS Class ZOOM
+ZCZC W05 25 L05 OS Quiz
+ZCZC W05 30 L06 GSGS for this week's bookmarks
+ZCZC W05 30 L32 Watching Eddie Woo Channel for Statprob
+ZCZC W05 90 L73 Play Video Games
+ZCZC W05 120 L70 Doing Database and Statprob homeworks
+ZCZC W05 30 L04 Editing my Github page 
+ZCZC W05 30 L81 Listening F1's podcast
+ZCZC W05 90 L87 Church
+ZCZC W05 60 L83 Dog grooming and Aquarium cleaning
