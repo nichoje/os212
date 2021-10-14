@@ -113,3 +113,23 @@ ZCZC W05 30 L04 Editing my Github page
 ZCZC W05 30 L81 Listening F1's podcast
 ZCZC W05 90 L87 Church
 ZCZC W05 60 L83 Dog grooming and Aquarium cleaning
+ZCZC W06 90 L11 Assignment #1
+ZCZC W06 50 L12 Assignment #2
+ZCZC W06 70 L13 Assignment #3
+ZCZC W06 50 L14 Assignment #4
+ZCZC W06 60 L15 Assignment #5 including GSGS and read the articles"
+ZCZC W06 20 L16 Assignment #6
+ZCZC W06 30 L17 Assignment #7
+ZCZC W06 20 L18 Assignment #8
+ZCZC W06 15 L19 Assignment #9
+ZCZC W06 20 L22 Quiz Week06
+ZCZC W06 15 L64 Helping my friend
+ZCZC W06 120 L73 Gaming
+ZCZC W06 80 L32 Watch Youtube to study statprob
+ZCZC W06 60 L83 Pet feeding and aquarium cleaning
+ZCZC W06 90 L70 Do PBD's assignment
+ZCZC W06 90 L87 Church
+ZCZC W06 25 L06 GSGS about what is bash
+ZCZC W06 15 L03 Github related
+ZCZC W06 15 L04 Github page related
+ZCZC W06 15 L06 GSGS for week06 contact
