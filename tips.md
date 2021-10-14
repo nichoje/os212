@@ -11,3 +11,5 @@ I think the quiz time limit (5 minutes for multiple choice and 15 minutes for es
 2. Listen and Pay Attention to the Lecturer<br>
 Sometimes there will be passphrase for the assignment. So pay attention.
 
+3. Do GSGS!<br>
+Anything you don't understand? GSGS! Google has almost everything you need
