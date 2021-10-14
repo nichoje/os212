@@ -47,4 +47,8 @@ I read this also. Make sure u do so!
 13. [Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
 This link contains all about virtual memory. Go click on it!
 
+14. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)<br>
+Confused about process sync? Check this link out!
 
+15. [Deadlocks](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+Brief intro about deadlocks.
