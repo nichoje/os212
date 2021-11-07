@@ -52,3 +52,9 @@ Confused about process sync? Check this link out!
 
 15. [Deadlocks](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
 Brief intro about deadlocks.
+
+16. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+General information for process syncs, check it out!
+
+17. [Cooperating Processes and Independent Processes](https://bitsofcomputer.blogspot.com/2016/01/cooperatingprocess.html)
+What are the differences between cooperating and independent processes? Check this link out!
