@@ -133,3 +133,9 @@ ZCZC W06 25 L06 GSGS about what is bash
 ZCZC W06 15 L03 Github related
 ZCZC W06 15 L04 Github page related
 ZCZC W06 15 L06 GSGS for week06 contact
+ZCZC W07 15 L06 GSGS for week07 contact
+ZCZC W07 90 L11 Assignment #1
+ZCZC W07 60 L12 Assignment #2
+ZCZC W07 70 L13 Assignment #3
+ZCZC W07 30 L83 Pet Feeding and Grooming
+ZCZC W07 10 L24 Bash
