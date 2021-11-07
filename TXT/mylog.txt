@@ -1,3 +1,4 @@
+
 # ##########################################
 # https://osp4diss.vlsm.org/ETC/logCodes.txt
 # ##########################################
@@ -139,3 +140,16 @@ ZCZC W07 60 L12 Assignment #2
 ZCZC W07 70 L13 Assignment #3
 ZCZC W07 30 L83 Pet Feeding and Grooming
 ZCZC W07 10 L24 Bash
+ZCZC W07 60 L14 Assignment #4
+ZCZC W07 60 L15 Assignment #5
+ZCZC W07 20 L16 Assignment #6
+ZCZC W07 60 L17 Assignment #7
+ZCZC W07 45 L18 Assignment #8
+ZCZC W07 15 L19 Assignment #9
+ZCZC W07 20 L04 Edit Github Page
+ZCZC W07 45 L32 Studying for Youtube
+ZCZC W07 15 L24 Bash
+ZCZC W07 20 L64 Help my friend with OS problem
+ZCZC W07 25 L60 Restart my computer after crash
+ZCZC W07 10 L08 Asking asdos about my problem in assignment
+ZCZC W07 10 L03 Github related
