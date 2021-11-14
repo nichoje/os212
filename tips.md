@@ -16,3 +16,6 @@ Anything you don't understand? GSGS! Google has almost everything you need.
 
 4. Do the assignments properly!<br>
 It is a must to do every assignments properly so you can get good scores!
+
+5. Join the ZOOM meeting!<br>
+Not only join the class. Listen and pay attention!
