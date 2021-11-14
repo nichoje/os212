@@ -169,3 +169,6 @@ ZCZC W08 30 L26 Trying and learn c-language online
 ZCZC W08 20 L32 Linux From Scratch in Youtube
 ZCZC W08 130 L70 Studying for other courses, doing homework, etc.
 ZCZC W08 60 L04 Github page related
+ZCZC W08 240 L14 Assignment #04
+ZCZC W08 100 L15 Assignment #05
+ZCZC W08 30 L64 Helping OS assignment to a friend
