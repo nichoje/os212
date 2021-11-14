@@ -56,5 +56,11 @@ Brief intro about deadlocks.
 16. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
 General information for process syncs, check it out!
 
-17. [Cooperating Processes and Independent Processes](https://bitsofcomputer.blogspot.com/2016/01/cooperatingprocess.html)
+17. [Cooperating Processes and Independent Processes](https://bitsofcomputer.blogspot.com/2016/01/cooperatingprocess.html)<br>
 What are the differences between cooperating and independent processes? Check this link out!
+
+18. [Multiple Processor Scheduling](https://www.easyexamnotes.com/p/multiple-processor-scheduling.html)<br>
+What are multiple processor scheduling? Maybe you can check this link out.
+
+19. [CPU Scheduling Algos](https://www.guru99.com/cpu-scheduling-algorithms.html)<br>
+Explanation about CPU Scheduling.
