@@ -147,9 +147,25 @@ ZCZC W07 60 L17 Assignment #7
 ZCZC W07 45 L18 Assignment #8
 ZCZC W07 15 L19 Assignment #9
 ZCZC W07 20 L04 Edit Github Page
-ZCZC W07 45 L32 Studying for Youtube
+ZCZC W07 45 L32 Studying from Youtube
 ZCZC W07 15 L24 Bash
 ZCZC W07 20 L64 Help my friend with OS problem
 ZCZC W07 25 L60 Restart my computer after crash
 ZCZC W07 10 L08 Asking asdos about my problem in assignment
 ZCZC W07 10 L03 Github related
+ZCZC W08 90 L11 Assignment #01
+ZCZC W08 100 L12 Assignment #02
+ZCZC W08 75 L13 Assignment #03
+ZCZC W08 45 L16 Assignment #06
+ZCZC W08 20 L17 Assignment #07
+ZCZC W08 35 L18 ASsignment #08
+ZCZC W08 30 L19 Assignment #09
+ZCZC W08 30 L01 SCELE related
+ZCZC W08 100 L87 Church
+ZCZC W08 10 L08 Asking asdos
+ZCZC W08 50 L06 GSGS related for week 8 material
+ZCZC W08 15 L24 Bash
+ZCZC W08 30 L26 Trying and learn c-language online
+ZCZC W08 20 L32 Linux From Scratch in Youtube
+ZCZC W08 130 L70 Studying for other courses, doing homework, etc.
+ZCZC W08 60 L04 Github page related
