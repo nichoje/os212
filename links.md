@@ -64,3 +64,9 @@ What are multiple processor scheduling? Maybe you can check this link out.
 
 19. [CPU Scheduling Algos](https://www.guru99.com/cpu-scheduling-algorithms.html)<br>
 Explanation about CPU Scheduling.
+
+20. [Linux From Scratch](https://lfs.mirror.fileplanet.com/lfs/view/11.0/)<br>
+Interested to do LFS? Check this out!
+
+21. [Mass Storage Structure](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)<br>
+Overview of Mass-Storage Structure.
