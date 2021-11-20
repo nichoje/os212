@@ -19,3 +19,6 @@ It is a must to do every assignments properly so you can get good scores!
 
 5. Join the ZOOM meeting!<br>
 Not only join the class. Listen and pay attention!
+
+5. Difficult?<br>
+Nothing is difficult as long as you wanna try!
