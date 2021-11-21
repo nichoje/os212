@@ -178,3 +178,12 @@ ZCZC W09 100 L13 Assignment #03
 ZCZC W09 40 L15 Assignment #05
 ZCZC W09 20 L16 Assignment #06
 ZCZC W09 50 L17 Assignment #07
+ZCZC W09 150 L14 Assignment #04
+ZCZC W09 100 L87 Church
+ZCZC W09 50 L06 GSGS for w09 material and links
+ZCZC W09 15 L24 Bash
+ZCZC W09 50 L32 LFS from Youtube
+ZCZC W09 200 L70 Studying for other courses
+ZCZC W09 60 L04 GHP related
+ZCZC W09 30 L64 Helping OS problem to a friend
+ZCZC W09 20 L06 GSGS LFS
