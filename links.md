@@ -70,3 +70,6 @@ Interested to do LFS? Check this out!
 
 21. [Mass Storage Structure](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)<br>
 Overview of Mass-Storage Structure.
+
+22. [LFS Chapter 8](https://www.linuxfromscratch.org/lfs/view/11.0/chapter08/introduction.html)<br>
+LFS Chapter 8
